@@ -40,8 +40,17 @@ __Italicized text__
 
 ```sh
 git clone https://github.com/efraimkaov/lmde2txt.git
-cd lmde2pdf/
+cd lmde2txt/
 pip3 install -r requirements.txt
+```
+
+## How to use (in progress)
+
+```sh
+# for gui
+python3 lmde2txt.py
+# for cli
+python3 lmde2txt-cli.py
 ```
 
 ### lmde2txt-cli.py examples
