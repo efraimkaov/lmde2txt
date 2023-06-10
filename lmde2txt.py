@@ -12,7 +12,6 @@ directory = ''
 def directory_func():
     global directory
     directory = askdirectory(title='Select the full path for the input directory')
-    print(directory)
 
 root = tk.Tk()
 
