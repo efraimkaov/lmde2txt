@@ -2,7 +2,7 @@
 
 ### This application converts lmde to txt (removes lmde syntax from text files)
 
-![lmde2txt](https://github.com/efraimkaov/lmde2pdf/assets/63643635/dd10ad0b-925e-474b-b1b5-70a5640d7889)
+![lmde2txt](https://github.com/efraimkaov/lmde2txt/assets/63643635/5ad816c7-5666-42c7-829d-5b6bcf1a3b03)
 
 ### What are lmde files
 
